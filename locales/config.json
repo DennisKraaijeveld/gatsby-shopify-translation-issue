@@ -1,0 +1,20 @@
+[
+  {
+    "code": "nl",
+    "pages": [
+      {
+        "originalPath": "/contact-us",
+        "path": "/contact-us"
+      }
+    ]
+  },
+  {
+    "code": "fr",
+    "pages": [
+      {
+        "originalPath": "/contact-us",
+        "path": "/contacts"
+      }
+    ]
+  }
+]
